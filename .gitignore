@@ -1,0 +1,79 @@
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Biblioteca do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Cache do Unity
+/[Cc]ache/
+[Uu]serSettings/
+
+# Arquivos gerados pelo Editor
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.swp
+*.ide/
+*.sln.ide/
+
+# Pasta do Crashlytics
+[Uu]serSettings/Crashlytics/
+
+# Excluir arquivos locais do Visual Studio/JetBrains Rider
+.vscode/
+.idea/
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.pdb
+
+# Gradle (caso use)
+.gradle/
+*.apk
+*.obb
+
+# Backup/Restore do Unity
+[Ss]napshots/
+[Bb]ackup/
+
+# Arquivos ocultos do Unity
+[Uu]serSettings/
+
+# TextMesh Pro
+[Tt]extMesh*Pro/
+
+# Logs do Unity
+*.log
+
+# EditorConfig
+.settings/
+
+# Outros
+*.stackdump
+*.profilerlog
+*.memorymap
+
+# Logs gerados pelo Unity
+*.info
+
+# Build Configs
+[Oo]utput/
+
+# LFS Config (se for usado para grandes arquivos binários)
+*.unity
+*.prefab
+*.fbx
