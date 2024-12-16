@@ -1,0 +1,3 @@
+Esse pack contém os assets que utilizamos no mini-curso: Como Criar um Jogo 2D na Unity e C#! - Curso disponível no canal 'Desenvolvendo Jogos'
+
+Esses assets fazem parte do pack: 'Grotto Escape' de ansimuz: https://ansimuz.itch.io/grotto-escape-game-art-pack
